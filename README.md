@@ -33,5 +33,4 @@ The portfolio demonstrates **hands-on technical competence**, **analytical abili
 ## Academic and Professional Relevance
 - Supports teaching of MSc Cybersecurity and Network Security
 - Demonstrates practice-led cybersecurity competence
-- Provides evidence for UK Global Talent Visa endorsement
 - Aligns with industry and academic cybersecurity standards
